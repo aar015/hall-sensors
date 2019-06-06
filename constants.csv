@@ -1,0 +1,5 @@
+Device,Radius of Magnet (cm),Distance from Magnet to Sensor (cm),Hall Constant (m^2/C),Geometric Factor,Resistence of Magnet (ohm),Inductance of Sensor (mH),Inductance of Magnet (mH),Capacitance of Sensor (nF),Phase Offset for positive bias,Phase Offset for Negative Bias
+QW 2mm,2.501,2.747,1520,3.017,39.759,0.096,15.78,0.549,-0.717,-0.202
+QW 5mm,2.501,2.747,1520,2.932,39.765,0.091,15.981,0.497,-0.059,-0.41
+QW 10mm,2.5,2.748,1520,1.256,39.985,0.1,17.632,0.651,-0.548,-0.327
+Epilayer 10mm,2.5,2.75,85.6,0.895,40.011,0.106,18.832,0.663,-0.415,-0.234

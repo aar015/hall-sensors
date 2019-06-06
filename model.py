@@ -447,7 +447,7 @@ def run():
     analyze_device('QW 2mm')
     analyze_device('QW 5mm')
     analyze_device('QW 10mm', chosen_i=1e-3)
-    analyze_device('Epilayer 10mm', chosen_i=1e-2)
+    analyze_device('Epilayer 10mm', chosen_i=1e-3)
     analyze_all()
 
 if __name__ == '__main__':
